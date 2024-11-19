@@ -1,5 +1,5 @@
 import React from "react";
-import Home from './component/Home'
+// import Home from './component/Home'
 import "./component/Home.css"
 import Topheader from "./component/header/Topheader";
 import Navbar from "./component/header/Navbar";
